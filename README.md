@@ -14,7 +14,7 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Precision- Recall
 ## Details of files given
-- Lead Score Case Study  : The python file showing coding and data analysis
+- Lead_Scoring_Assignment.ipynb  : The python file showing coding and data analysis
 - Leads.csv : Data worked on
 - Leads Data Dictionary.xlsx : Data Dictionary
 
